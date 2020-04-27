@@ -1,1 +1,1 @@
-# javascript-slider
+# responsive media query
